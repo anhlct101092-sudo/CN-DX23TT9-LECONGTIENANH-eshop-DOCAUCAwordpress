@@ -1,7 +1,7 @@
 # CN-DX23TT9-LECONGTIENANH-eshop-DOCAUCAwordpress
 # Đồ án: Website Bán Dụng Cụ và Phụ Kiện Câu Cá
-**Sinh viên thực hiện:** [Họ và tên của bạn]
-**Giảng viên hướng dẫn:** [Tên giảng viên]
+**Sinh viên thực hiện:** LÊ CÔNG TIẾN ANH
+**Giảng viên hướng dẫn:** ThS. Nguyễn Hoàng Duy Thiện
 
 ## 1. Tóm tắt dự án
 Xây dựng website bán dụng cụ và phụ kiện câu cá bằng WordPress và WooCommerce giúp duyệt sản phẩm, đặt hàng và quản lý đơn hàng.
