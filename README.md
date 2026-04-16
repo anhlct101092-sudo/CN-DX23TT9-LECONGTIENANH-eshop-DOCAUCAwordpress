@@ -4,7 +4,7 @@
 **Giảng viên hướng dẫn:** [Tên giảng viên]
 
 ## 1. Tóm tắt dự án
-Xây dựng website thương mại điện tử bằng WordPress và WooCommerce giúp duyệt sản phẩm, đặt hàng và quản lý đơn hàng.
+Xây dựng website bán dụng cụ và phụ kiện câu cá bằng WordPress và WooCommerce giúp duyệt sản phẩm, đặt hàng và quản lý đơn hàng.
 
 ## 2. Hướng dẫn cài đặt (Setup)
 1. Cài đặt XAMPP (PHP, MySQL).
